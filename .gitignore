@@ -1,0 +1,24 @@
+# Wordlists (too large for GitHub - rockyou.txt is 130MB+)
+wordlists/
+
+# Reports with real client data
+reports/*_Client.pdf
+reports/*_Original.pdf
+
+# JSON reports with real data
+ir_report_*.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+network_log.txt
+
+# Backup files
+*_backup.*
