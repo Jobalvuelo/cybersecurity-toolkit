@@ -53,6 +53,13 @@ Custom-built security tools, real-world audit reports, and scripts developed dur
 | Google Cybersecurity Professional Certificate | In Progress (Course 2/8) |
 | CompTIA Security+ | Planned 2026 |
 
+## Education
+
+| Degree | Institution | Year | Notes |
+|--------|-------------|------|-------|
+| Higher Technical Diploma — IT & Telecommunications | IES Jorge Guillén, Torrox, Spain | 2014 – 2016 | Networking, operating systems, programming, telecommunications. Completed while working as IT Technician. |
+| High School Diploma — Social Sciences | IES Jorge Guillén, Torrox, Spain | 2011 – 2014 | Graduated with Honors — 9.00/10 (Spanish system) · 1.6 (German system) |
+
 ## Disclaimer
 
 These tools are for educational purposes and authorized testing only. Always obtain written permission before testing any network or system you do not own.
